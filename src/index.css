@@ -16,7 +16,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
-  padding: 5px;
+  padding: 10px;
 }
 
 .calculator {
@@ -33,7 +33,7 @@ body {
   text-align: right;
   background-color: rgb(20, 19, 19);
   font-size: 24px;
-  font-weight: 300;
+  font-weight: 400;
   color: #fff;
 }
 
@@ -46,8 +46,9 @@ button {
   border: none;
   outline: none;
   color: #fff;
-  font-size: 20px;
-  padding: 16px;
+  font-size: 24px;
+  font-weight: 500;
+  padding: 25px 10px;
   cursor: pointer;
   text-align: center;
   transition: 0.5s;
@@ -64,6 +65,7 @@ button:hover {
 .operators button {
   flex: 1 1 0%;
   background-color: rgb(196, 74, 18);
+  font-weight: 500;
 }
 
 .digits {
