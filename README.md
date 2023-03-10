@@ -1,1 +1,1 @@
-https://calc-app-pmv.herokuapp.com/
+https://calc-app-react.vercel.app/
